@@ -1,5 +1,3 @@
-### hh
-
 
 <h1 align="center">  Code to delete core Windows files and hardware failure  </h1>
 <p align="center">
